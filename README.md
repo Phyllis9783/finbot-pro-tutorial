@@ -64,8 +64,8 @@
 #### 1. Clone 專案
 
 ```bash
-git clone https://github.com/你的帳號/finbot-pro-tutorial.git
-cd finbot-pro-tutorial
+git clone https://github.com/Phyllis9783/FinTech-Lab-101.git
+cd FinTech-Lab-101
 ```
 
 #### 2. 安裝套件
@@ -323,7 +323,7 @@ prompt = f"""
 
 ## 📧 聯絡方式
 
-- 💬 GitHub Issues: [提問](https://github.com/Phyllis9783/FinTech-Lab-101.git/issues)
+- 💬 GitHub Issues: [提問](https://github.com/Phyllis9783/FinTech-Lab-101/issues)
 - 📧 Email: Phyllis.strategy@gmail.com
 ---
 
@@ -335,6 +335,6 @@ Made with ❤️ for Learning by **Phyllis**
 
 **投資有風險，學習需謹慎** 📚
 
-[⬆ Back to Top](#-finbot-pro---ai-投資學習助理教學版)
+[⬆ Back to Top](#-fintech-lab-101--金融科技實驗室-打造你的第一個python理財助理)
 
 </div>
