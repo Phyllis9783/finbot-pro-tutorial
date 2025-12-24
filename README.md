@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 # 📈 FinTech-Lab-101：金融科技實驗室-打造你的第一個Python理財助理
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -335,6 +336,6 @@ Made with ❤️ for Learning by **Phyllis**
 
 **投資有風險，學習需謹慎** 📚
 
-[⬆ Back to Top](#)
+[⬆ Back to Top](#readme-top)
 
 </div>
