@@ -335,6 +335,6 @@ Made with ❤️ for Learning by **Phyllis**
 
 **投資有風險，學習需謹慎** 📚
 
-[⬆ Back to Top](#-fintech-lab-101--金融科技實驗室-打造你的第一個python理財助理)
+[⬆ Back to Top](#)
 
 </div>
